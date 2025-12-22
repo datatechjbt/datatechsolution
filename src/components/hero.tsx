@@ -60,7 +60,7 @@ export function Hero() {
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-br from-[#14b8a6]/20 to-[#0f172a]/20 rounded-3xl blur-2xl" />
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1674133623270-469ea4464ba9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzRCUyMGFic3RyYWN0JTIwZmluYW5jZSUyMGRhdGF8ZW58MXx8fHwxNzY2NDAyNzU3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+              src="banner.jpeg"
               alt="3D Finance Illustration"
               className="relative rounded-3xl shadow-2xl w-full object-cover"
             />
