@@ -49,7 +49,7 @@ export function WhyChooseUs() {
             />
             
             {/* Floating Stats Card */}
-            <div className="absolute -bottom-8 -right-8 bg-white rounded-2xl shadow-2xl p-6 border border-gray-100">
+            <div className="absolute -bottom-6 right-4 lg:-bottom-8 lg:-right-8 bg-white rounded-2xl shadow-2xl p-6 border border-gray-100">
               <div className="flex items-center gap-4">
                 <div className="w-16 h-16 bg-gradient-to-br from-[#14b8a6] to-[#0d9488] rounded-xl flex items-center justify-center">
                   <Award className="w-8 h-8 text-white" />

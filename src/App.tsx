@@ -12,24 +12,24 @@ import { Blogs } from './components/blogs'
 import { Footer } from './components/footer'
 import { Contact } from './components/contact'
 
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router";
+import HomePage from './pages/homepage'
 
+let router = createBrowserRouter([
+  {
+    path: "/",
+    Component: HomePage,
+    // loader: loadRootData,
+  },
+]);
 function App() {
 
   return (
-    <div className="min-h-screen bg-white">
-      <Header />
-      <main>
-        <Hero />
-        <Services />
-        <WhyChooseUs />
-        <Registrations />
-        <Process />
-        <Testimonials />
-        <Blogs />
-        <Contact />
-      </main>
-      <Footer />
-    </div>
+  <RouterProvider router={router} />
+
   )
 }
 

@@ -5,4 +5,13 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(),react()],
+  server: {
+    allowedHosts: ["ecomorigin.in", ".ngrok.io"],
+    cors: {
+      origin: "*", // dev only
+      methods: ["GET", "POST", "PUT", "DELETE"],
+      allowedHeaders: ["Content-Type", "Authorization"],
+    },
+  },  
+
 })

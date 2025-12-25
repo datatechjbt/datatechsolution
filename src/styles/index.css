@@ -1,3 +1,9 @@
 @import './fonts.css';
 @import './tailwind.css';
 @import './theme.css';
+@supports (-webkit-touch-callout: none) {
+  .mobile-fixed {
+    height: 100%;
+    width: 100%;
+  }
+}
