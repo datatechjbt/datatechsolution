@@ -14,12 +14,12 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email Us",
-    details: ["info@datatechsolutions.in", "support@datatechsolutions.in"],
+    details: ["support@datatechsolution.in"],
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    details: ["123 Business District", "Mumbai, Maharashtra 400001"],
+    details: ["Jibantala, Canning - II", "South 24 Parganas, West Bengal 743502"],
   },
 ];
 
