@@ -69,8 +69,8 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="#" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-gradient-to-br from-[#0f172a] to-[#14b8a6] rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">D</span>
+            <div className="w-10 h-10  rounded-lg flex items-center justify-center">
+              <img src="/logo.png" alt="Datatech solution logo"  />
             </div>
             <div>
               <div className="text-xl font-bold text-[#0f172a]">Datatech Solutions</div>
