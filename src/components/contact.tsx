@@ -9,7 +9,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    details: ["+91 98765 43210", "+91 87654 32109"],
+    details: ["03369028800"],
   },
   {
     icon: Mail,
@@ -70,7 +70,7 @@ export function Contact() {
                     <Label htmlFor="phone">Phone Number</Label>
                     <Input
                       id="phone"
-                      placeholder="+91 98765 43210"
+                      placeholder="03369028800"
                       className="bg-[#f8fafc] border-gray-200"
                     />
                   </div>

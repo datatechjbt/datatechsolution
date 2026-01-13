@@ -146,7 +146,7 @@ export function Footer() {
             <Phone className="w-5 h-5 text-[#14b8a6] flex-shrink-0 mt-1" />
             <div>
               <div className="text-sm text-gray-400">Call Us</div>
-              <div className="text-sm">+91 98765 43210</div>
+              <div className="text-sm">03369028800</div>
             </div>
           </div>
           <div className="flex items-start gap-3">
