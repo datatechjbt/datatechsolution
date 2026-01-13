@@ -47,7 +47,7 @@ export function Footer() {
                 <span className="text-white font-bold text-xl">D</span>
               </div>
               <div>
-                <div className="text-xl font-bold">Datatech Solutions</div>
+                <div className="text-xl font-bold">Datatech Solution</div>
                 <div className="text-xs text-gray-400">Tax & Compliance Experts</div>
               </div>
             </div>
@@ -146,21 +146,21 @@ export function Footer() {
             <Phone className="w-5 h-5 text-[#14b8a6] flex-shrink-0 mt-1" />
             <div>
               <div className="text-sm text-gray-400">Call Us</div>
-              <div className="text-sm">03369028800</div>
+              <div className="text-sm">033 6902 8800</div>
             </div>
           </div>
           <div className="flex items-start gap-3">
             <Mail className="w-5 h-5 text-[#14b8a6] flex-shrink-0 mt-1" />
             <div>
               <div className="text-sm text-gray-400">Email Us</div>
-              <div className="text-sm">info@datatechsolutions.in</div>
+              <div className="text-sm">support@datatechsolution.in</div>
             </div>
           </div>
           <div className="flex items-start gap-3">
             <MapPin className="w-5 h-5 text-[#14b8a6] flex-shrink-0 mt-1" />
             <div>
               <div className="text-sm text-gray-400">Visit Us</div>
-              <div className="text-sm">Mumbai, Maharashtra 400001</div>
+              <div className="text-sm">Jibantala, Canning - II, 24 Pgs (S), West Bengal 743502</div>
             </div>
           </div>
         </div>
