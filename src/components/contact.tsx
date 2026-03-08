@@ -9,7 +9,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    details: ["03369028800"],
+    details: ["033 6902 8800"],
   },
   {
     icon: Mail,
