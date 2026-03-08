@@ -73,7 +73,7 @@ export function Header() {
               <img src="/logo.png" alt="Datatech solution logo"  />
             </div>
             <div>
-              <div className="text-xl font-bold text-[#0f172a]">Datatech Solutions</div>
+              <div className="text-xl font-bold text-[#0f172a]">Datatech Legal Solution</div>
               <div className="text-xs text-[#64748b]">Tax & Compliance Experts</div>
             </div>
           </a>
