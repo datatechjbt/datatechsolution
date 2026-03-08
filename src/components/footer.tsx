@@ -47,7 +47,7 @@ export function Footer() {
                 <span className="text-white font-bold text-xl">D</span>
               </div>
               <div>
-                <div className="text-xl font-bold">Datatech Solution</div>
+                <div className="text-xl font-bold">Datatech Legal Solution</div>
                 <div className="text-xs text-gray-400">Tax & Compliance Experts</div>
               </div>
             </div>
